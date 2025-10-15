@@ -209,3 +209,12 @@ data/
 *.h5
 *.pt
 *.pth
+
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
